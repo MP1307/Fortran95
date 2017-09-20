@@ -1,0 +1,10 @@
+PRORGRAM prim
+	implicit none 
+	integer :: zaehler, obergrenze 
+	read(*,*) obergrenze
+		
+	do zaehler = 1, obergrenze 
+		print *, zaehler 
+		
+	end do 
+End Program prim
