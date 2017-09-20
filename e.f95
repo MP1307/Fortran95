@@ -25,6 +25,7 @@ Program e
 				if ( aktuelles + vorheriges  == 0) exit
 	
 			end do
+		!Ergebnis ausgeben
 		print *, "mein Ergebnis"	 
 		print *, ergebnis 
 		print *, "Differenz" 
